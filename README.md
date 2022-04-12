@@ -1,2 +1,2 @@
 # opt-proj
-SJTU graduate optimization course project source code and report.
+Code and report for SJTU graduate optimization course project, compressed sensing and image denoising.
